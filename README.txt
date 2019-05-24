@@ -1,5 +1,5 @@
-COMP47470 Project-3: Graph Processing
-By: Thejas Raju (18204398)
+Graph Processing
+By: Thejas Raju 
 
 TASK-1: Hadoop MapReduce
 
